@@ -1,0 +1,10 @@
+---
+title: "A Novel Application/Infrastructure Co-design Approach for Real-time Edge Video Analytics"
+collection: publications
+permalink: /publication/nov-south-2019
+date: 2019-04-14
+venue: 'IEEE SoutheastCon'
+
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9020639'
+---
+Recent advances in machine learning and deep learning have enabled many existing applications in smart cities, autonomous systems, and wearable devices. These applications often demand scalable real-time cognitive intelligence and on-the-spot decision making. Current computer systems have been customized for a cloud computing paradigm which often does not meet latency constraints and scalability requirements. To address the limitations of the cloud computing paradigm, the general trend is toward shifting the computation next to data producers at the edge. However, the edge computing paradigm is in the very early stages. Many system-level aspects of edge computing, including algorithms mapping and partitioning across edge computing resources (edge server, and edge nodes) are unknown. New research is required to understand and quantify design dimensions for edge computing.This paper presents a novel edge computing infrastructure for distributed real-time video analytics. This paper presents a holistic solution for co-designing application and edge infrastructure, including edge nodes and edge servers, to enable scalable real-time Artificial Intelligence (AI)/Deep Learning (DL) video analytics across many cameras. For experimental results and evaluation, we focus on the case study of object re-identification across many cameras, which is composed of object detection/classification (TinyYOLOv3), feature extraction, local re-identification, and global re-identification kernels. We evaluate the edge system under three different task mapping and resource allocation configurations. The results present that with the edge nodes (video cameras) more than 32, the only scalable solution is to perform detection/classification (TinyYOLOv3), feature extraction, local re-identification on the edge nodes next to cameras, and execute global re-identification on edge server.
