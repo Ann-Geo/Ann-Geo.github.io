@@ -2,9 +2,9 @@
 title: "Mez: An Adaptive Messaging System for Latency-Sensitive Multi-Camera Machine Vision at the IoT Edge"
 collection: publications
 permalink: /publication/mez-ieee-2021
+excerpt: 'Anjus George, Arun Ravindran, Matías Mendieta, Hamed Tabkhi'
 date: 2021-01-02
-venue: 'IEEE Access 2021'
-
+venue: 'IEEE Access'
 
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9343251'
 ---
