@@ -2,6 +2,7 @@
 title: "A Novel Application/Infrastructure Co-design Approach for Real-time Edge Video Analytics"
 collection: publications
 permalink: /publication/nov-south-2019
+excerpt: 'Matías Mendieta, Christopher Neff, Daniel Lingerfelt, Christopher Beam, Anjus George, Sam Rogers, Arun Ravindran, Hamed Tabkhi'
 date: 2019-04-14
 venue: 'IEEE SoutheastCon'
 
