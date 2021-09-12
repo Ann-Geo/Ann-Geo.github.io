@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an HPC Systems Software Engineer at Oak Ridge National Laboratory. My areas of focus are file system software development for Lustre and ZFS and deployment of petascale file system software of leadership class supercomputers. I also conduct research on emerging Edge computing ecosystems emphasizing on their distributed system architecture and design aspects.
+I am an HPC Systems Software Engineer at Oak Ridge National Laboratory. My areas of focus are file system software development for Lustre and ZFS and deployment of petascale file system software on leadership class supercomputers. I also conduct research on emerging Edge computing ecosystems emphasizing on their distributed system architecture and design aspects.
 
 Recent Publications
 ======
