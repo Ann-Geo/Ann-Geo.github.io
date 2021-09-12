@@ -12,10 +12,10 @@ I am an HPC Systems Software Engineer at Oak Ridge National Laboratory. My areas
 
 Recent Publications
 ======
-Click [here](https://scholar.google.com/citations?user=eadCChkAAAAJ&hl=en) for complete list.
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Click [here](https://scholar.google.com/citations?user=eadCChkAAAAJ&hl=en) for complete list.\\
+2021. George, A. Ravindran, M. Mendieta and H. Tabkhi, "Mez: An Adaptive Messaging System for Latency-Sensitive Multi-Camera Machine Vision at the IoT Edge," in IEEE Access, vol. 9, pp. 21457-21473, 2021, doi: 10.1109/ACCESS.2021.3055775.
+2020. George A., Ravindran A. (2021) Scalable Approximate Computing Techniques for Latency and Bandwidth Constrained IoT Edge. In: Paiva S., Lopes S.I., Zitouni R., Gupta N., Lopes S.F., Yonezawa T. (eds) Science and Technologies for Smart Cities. SmartCity360° 2020. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 372. Springer, Cham. https://doi.org/10.1007/978-3-030-76063-2_20
+2019. George A., Ravindran A. (2019) Latency Control for Distributed Machine Vision at the Edge Through Approximate Computing. In: Zhang T., Wei J., Zhang LJ. (eds) Edge Computing – EDGE 2019. EDGE 2019. Lecture Notes in Computer Science, vol 11520. Springer, Cham. https://doi.org/10.1007/978-3-030-23374-7_2
 
 Getting started
 ======
