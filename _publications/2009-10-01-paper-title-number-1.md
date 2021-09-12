@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Mez: An Adaptive Messaging System for Latency-Sensitive Multi-Camera Machine Vision at the IoT Edge"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/mez-ieee-2021
+date: 2021-01-02
+venue: 'IEEE Access 2021'
+
+
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9343251'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Mez is a novel publish-subscribe messaging system for latency sensitive multi-camera machine vision applications at the IoT Edge. The unlicensed wireless communication in IoT Edge systems are characterized by large latency variations due to intermittent channel interference. To achieve user specified latency in the presence of wireless channel interference, Mez takes advantage of the ability of machine vision applications to temporarily tolerate lower quality video frames if overall application accuracy is not too adversely affected. Control knobs that involve lossy image transformation techniques that modify the frame size, and thereby the video frame transfer latency, are identified. Mez implements a network latency feedback controller that adapts to channel conditions by dynamically adjusting the video frame quality using the image transformation control knobs, so as to simultaneously satisfy latency and application accuracy requirements. Additionally, Mez uses an application domain specific design of the storage layer to provide low latency operations. Experimental evaluation on an IoT Edge testbed with a pedestrian detection machine vision application indicates that Mez is able to tolerate latency variations of up to 10x with a worst-case reduction of 4.2% of the application accuracy F1 score metric. The performance of Mez is also experimentally evaluated against state-of-the-art low latency NATS messaging system.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
