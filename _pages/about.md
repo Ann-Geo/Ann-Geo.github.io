@@ -10,6 +10,15 @@ redirect_from:
 
 I am an HPC Systems Software Engineer at Oak Ridge National Laboratory. My areas of focus are system software development for Lustre and ZFS and deployment of petascale file systems on leadership class supercomputers. I also conduct research on emerging Edge computing ecosystems emphasizing on their distributed system architecture and design aspects.
 
+News
+======
+2022-04 Presented tutorial on Lustre in LUG 2022 
+2022-04 Presented talk on Lustre in LUG 2022 
+2022-04 Three talks accepted in Lustre User Group Conference 2022 [LUG 2022](https://www.opensfs.org/events/lug-2022/)
+2022-04 Lustre User Group Conference 2022 presence [LUG 2022](https://www.olcf.ornl.gov/2022/05/04/register-for-lustre-user-group-virtual-conference-2022/)
+2021-09 Published Lustre Documentaion Tech Report Second Edition [Understanding Lustre Internals Second Edition](https://www.osti.gov/biblio/1824954-understanding-lustre-internals-second-edition)
+2021-08 OLCF’S Advanced Technology Section hosts seminar series [ATS SEMINAR SERIES](https://www.olcf.ornl.gov/2021/08/31/olcfs-advanced-technologies-section-hosts-seminar-series/)
+
 Recent Publications
 ======
 Click [here](https://scholar.google.com/citations?user=eadCChkAAAAJ&hl=en) for complete list.
