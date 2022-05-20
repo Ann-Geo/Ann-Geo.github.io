@@ -14,7 +14,7 @@ News
 ======
 2022-05 Presented poster on Lustre Policy Engine in ORNL Software and Data Expo 2022 [OSDX 2022]
 <br>2022-05 Presented tutorial on Lustre MGC and Obdclass subsystems in LUG 2022 [LUG 2022]
-<br>2022-05 Presented talk on Lustre Internals in LUG 2022 [LUG 2022]
+<br>2022-05 Presented talk on Lustre Internals in LUG 2022 [LUG 2022](https://www.opensfs.org/wp-content/uploads/Anjus_George_LUG_2022_talk.pdf)
 <br>2022-04 Three talks accepted in Lustre User Group Conference 2022 [LUG 2022](https://www.opensfs.org/events/lug-2022/)
 <br>2022-04 Lustre User Group Conference 2022 presence [LUG 2022](https://www.olcf.ornl.gov/2022/05/04/register-for-lustre-user-group-virtual-conference-2022/)
 <br>2021-09 Published Lustre Documentaion Tech Report Second Edition [Understanding Lustre Internals Second Edition](https://www.osti.gov/biblio/1824954-understanding-lustre-internals-second-edition)
