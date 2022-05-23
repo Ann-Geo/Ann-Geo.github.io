@@ -12,7 +12,7 @@ I am an HPC Systems Software Engineer at Oak Ridge National Laboratory. My areas
 
 News
 ======
-2022-05 Presented poster on Lustre Policy Engine in ORNL Software and Data Expo 2022 [OSDX 2022](https://github.com/Ann-Geo/Ann-Geo.github.io/blob/master/files/OSDX_2022_poster.pdf)
+2022-05 Accepted poster on Lustre Policy Engine in ORNL Software and Data Expo 2022 [OSDX 2022](https://github.com/Ann-Geo/Ann-Geo.github.io/blob/master/files/OSDX_2022_poster.pdf)
 <br>2022-05 Presented tutorial on Lustre MGC and Obdclass subsystems in LUG 2022 [LUG 2022]
 <br>2022-05 Presented talk on Lustre Internals in LUG 2022 [LUG 2022](https://www.opensfs.org/wp-content/uploads/Anjus_George_LUG_2022_talk.pdf)
 <br>2022-04 Three talks accepted in Lustre User Group Conference 2022 [LUG 2022](https://www.opensfs.org/events/lug-2022/)
