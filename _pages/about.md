@@ -12,7 +12,7 @@ I am an HPC Systems Software Engineer at Oak Ridge National Laboratory. My areas
 
 News
 ======
-2022-05 Published OLCF's Alpine disk failure dataset in osti.gov [DOI] (https://www.osti.gov/biblio/1868941-alpine-disk-failure-dataset)
+2022-05 Published OLCF's Alpine disk failure dataset in osti.gov [DOI](https://www.osti.gov/biblio/1868941-alpine-disk-failure-dataset)
 <br>2022-05 Presented talk on Lustre Internals in LUG 2022 [LUG 2022](https://www.opensfs.org/wp-content/uploads/Anjus_George_LUG_2022_talk.pdf)
 <br>2022-05 Co-authored the talk on Lustre policy engine in LUG 2022 [LUG 2022](https://www.opensfs.org/wp-content/uploads/QuickSilver-LUG-2022.pdf)
 <br>2022-05 Co-authored the talk on Lustre 'lfs find' in LUG 2022 [LUG 2022](https://www.opensfs.org/wp-content/uploads/Mohr-Improved_lfs_find_Command.pdf)
