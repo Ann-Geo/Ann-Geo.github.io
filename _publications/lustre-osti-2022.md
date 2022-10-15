@@ -1,5 +1,5 @@
 ---
-title: "Latency Control for Distributed Machine Vision at the Edge Through Approximate Computing"
+title: "Understanding Lustre Internals Second Edition"
 collection: publications
 permalink: /publication/lat-edge-2019
 excerpt: '<p style="color:red;">Best Paper Award</p> Anjus George, Arun Ravindran'
