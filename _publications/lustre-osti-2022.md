@@ -3,7 +3,7 @@ title: "Understanding Lustre Internals Second Edition"
 collection: publications
 permalink: /publication/lustre-osti-2022
 excerpt: 'Anjus George, Rick Mohr, James Simmons, Sarp Oral'
-date: 2022-09-14
+date: 2021-09-14
 venue: 'DOE OSTI'
 
 paperurl: 'https://www.osti.gov/biblio/1824954'
