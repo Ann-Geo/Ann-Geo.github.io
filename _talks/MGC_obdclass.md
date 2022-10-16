@@ -1,7 +1,7 @@
 ---
 title: "Lustre MGC and Obdclass Deep Dive"
 collection: talks
-type: "Talk"
+type: "Tutorial"
 permalink: /talks/MGC_obdclass
 venue: "Lustre User Group (LUG) Conference 2022 by OpenSFS"
 date: 2022-05-09
