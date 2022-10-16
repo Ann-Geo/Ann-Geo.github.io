@@ -1,6 +1,5 @@
 ---
-title: "HPC Storage R&D staff"
-location: "Oak Ridge National Laboratory, USA"
+title: "HPC Storage R&D staff, Oak Ridge National Laboratory, USA"
 collection: portfolio
 ---
 
