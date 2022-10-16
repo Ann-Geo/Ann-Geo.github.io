@@ -8,7 +8,7 @@ date: 2022-05-10
 location: "USA"
 ---
 
-[Presetantion](https://www.youtube.com/watch?v=OQuCG1Vjs0s)
+[Presentation](https://www.youtube.com/watch?v=OQuCG1Vjs0s)
 
 The Lustre file system has become a preferred storage resource for systems on the Top500 list, and it is often the file system of choice for small- to medium-sized HPC systems that require parallel shared access to data. Several resources exist to help users deploy and configure Lustre, but the same cannot be said for resources that explain the inner workings of the Lustre source code. A previous ORNL technical report entitled “Understanding Lustre Filesystem Internals” (ORNL/TM-2009/117) provided an excellent summary of Lustre subsystem operations. However, that report is over a decade old and is based on Lustre version 1.6. Since that report was published, Lustre has evolved significantly. Several subsystems underwent significant code changes and many new features have been added to the file system, bringing the current Lustre version up to 2.15.  
 
