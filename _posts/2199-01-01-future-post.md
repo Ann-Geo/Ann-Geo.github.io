@@ -1,11 +1,8 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "Distributed messaging system and storage for IoT-Edge"
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+1. Developed a distributed messaging framework (in Golang) for computer vision applications at the Edge that achieved 10.1x end-to-end latency improvement over the state of the art messaging systems.
+1. The messaging framework has a microservices based Publish-Subscribe architecture that enables communication through simple APIs.
+1. The messaging system also incorporates a network latency controller that dynamically adjusts the video frame quality to satisfy latency, and application accuracy requirements.
+1. To achieve low latency read-write operations, the messaging framework implements an in-memory distributed storage (written in Golang) uniquely tailored for computer vision applications deployed on resource constraint IoT embedded nodes.
