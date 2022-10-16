@@ -2,9 +2,10 @@
 title: "Lustre MGC and Obdclass Deep Dive"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/MGC_obdclass
+venue: "Lustre User Group (LUG) Conference 2022 by OpenSFS"
 date: 2022-05-09
-location: "Lustre User Group (LUG) Conference 2022 by OpenSFS"
+location: "USA"
 ---
 
 1. The talk covers the two core subsystems in Lustre - MGC and Obdclass
