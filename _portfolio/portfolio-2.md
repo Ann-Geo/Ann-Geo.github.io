@@ -1,6 +1,5 @@
 ---
-title: "Research Assistant"
-location: "University of North Carolina at Charlotte, USA"
+title: "Research Assistant, University of North Carolina at Charlotte, USA"
 collection: portfolio
 ---
 
