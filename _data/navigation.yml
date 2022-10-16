@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
@@ -12,8 +12,8 @@ main:
   - title: "Experience"
     url: /portfolio/
         
-  - title: "Awards and Certifications"
+  - title: "Certifications"
     url: /year-archive/
     
-  - title: "Lustre"
+  - title: "Projects"
     url: /markdown/
