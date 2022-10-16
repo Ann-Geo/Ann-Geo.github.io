@@ -1,6 +1,5 @@
 ---
-title: "Software Engineer"
-location: "Robert Bosch Engineering and Business Solutions, India"
+title: "Software Engineer, Robert Bosch Engineering and Business Solutions, India"
 collection: portfolio
 ---
 
