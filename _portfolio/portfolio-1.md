@@ -1,8 +1,7 @@
 ---
 title: "HPC Storage R&D staff"
-collection: portfolio
-permalink: /portfolio/portfolio-1.md
 location: "Oak Ridge National Laboratory, USA"
+collection: portfolio
 ---
 
 1. Understanding Lustre File System Internals: A technical documentation of fundamental subsystems in Lustre written for Lustre developers. 
